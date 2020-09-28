@@ -1,0 +1,23 @@
+{
+  "name": "prueba-volumenes-openshift",
+  "version": "1.0.0",
+  "description": "Repositorio para realizar pruebas de volúmenes de persistencia para OpenShift",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pazcifier/prueba-volumenes-openshift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pazcifier/prueba-volumenes-openshift/issues"
+  },
+  "homepage": "https://github.com/Pazcifier/prueba-volumenes-openshift#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
